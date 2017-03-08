@@ -1,3 +1,5 @@
 # Magento 2 Clear Cache Command
 
-With thi simple bash script, you can easily clear the whole cache of a magento website
+With this simple bash script, you can easily clear the whole cache of a magento website.
+
+**Remember to  modify the change of ownership with your user and your group.**
