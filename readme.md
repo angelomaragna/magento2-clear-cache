@@ -4,4 +4,5 @@ With this simple bash script, you can easily clear the whole cache of a magento 
 
 **Remember to  modify the change of ownership with your user and your group.**
 
-Angelo Maragna [follow me on twitter](twitter.com/2ndAngyel)
+Angelo Maragna
+[(follow me on twitter)](https://twitter.com/2ndAngyel)
